@@ -2,7 +2,6 @@
 
 require "nokogiri"
 require "net/http"
-require "debug"
 require "date"
 
 def main
