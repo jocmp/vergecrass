@@ -1,6 +1,6 @@
 # Vergecrass
 
-_A web scraper for classic Vergecast episodes that are no longer in the RSS feed_
+_A web scraper for Vergecast episodes missing from RSS_
 
 ## Background
 
